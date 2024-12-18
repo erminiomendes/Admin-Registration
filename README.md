@@ -36,7 +36,7 @@ This repository contains an application designed to manage visitor registrations
 
 See the app in action in the GIF below:
 
-![App Demo](path-to-your-gif.gif)
+![App Demo](AdminRegistration.gif)
 
 
 
