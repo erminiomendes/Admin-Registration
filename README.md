@@ -41,10 +41,7 @@ See the app in action in the GIF below:
 
 
 ## 🚀 Technologies Used
-- [Technologies or programming languages used in development]
-- [Additional frameworks or libraries]
+- Power Apps
 
-## 📂 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
+
+
